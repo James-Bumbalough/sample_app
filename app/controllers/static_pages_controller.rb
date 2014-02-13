@@ -10,4 +10,11 @@ class StaticPagesController < ApplicationController
 
   def contact
   end
+
+  def tumblr
+  end
+
+  def resume
+  end
+
 end

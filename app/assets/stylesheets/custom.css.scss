@@ -172,3 +172,129 @@ input {
   @extend .control-group;
   @extend .error;
 }
+
+
+
+
+
+
+/* RESUME */
+#resume {
+  border-top: 1px solid $grayMediumLight;
+  width: 780px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 20px;
+}
+
+
+#name_title {
+  font-size:24px;
+  font-weight:bold;
+  text-align:center;
+}
+
+#box_row {
+  margin: 15px 0px 7px 0px;
+}
+
+#box_row a {
+  text-decoration:none;
+  color:#000;
+}
+
+#box_row a:hover {
+  text-decoration:none;
+  color:#555;
+}
+
+#box1 {
+  position:absolute;
+  font-size:18px;
+}
+
+#box2 {
+  font-size:18px;
+  position:relative;
+  width:255px;
+  margin-left:auto;
+}
+
+.title_bar {
+  font-size:20px;
+  font-weight:bold;
+  text-align:center;
+  margin-top:10px;
+  margin-bottom:5px;
+}
+.greybox {
+
+  background-color: $grayMediumLight;
+  padding:5px;
+  margin-top:5px;
+  margin-bottom:5px;
+}
+
+#work_experience {
+}
+
+#work_experience table {
+  width: 730px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 10px;
+  background-color: #FFF;
+}
+
+#work_experience td {
+  border: thin solid #999;
+  padding-left : 5px;
+}
+
+#work_experience .tableheader{
+  text-align: center;
+  font-weight: bold;
+}
+.work_title {
+  position:absolute;
+  font-weight:bold;
+}
+
+.work_period {
+  position:relative;
+  width:155px;
+  margin-left:auto;
+  font-weight:bold;
+}
+
+.work_description a{
+  text-decoration:none;
+  color:#000;
+}
+
+.work_description a:hover{
+  text-decoration:none;
+  color:#777;
+}
+
+.company {
+  margin-left:5px;  
+}
+
+.responsibilities{
+}
+
+.responsibilities ul{
+  list-style-type:none;
+}
+
+#hideShow {
+  position:absolute;
+  margin-left:510px;
+  margin-top: -26px;
+  display:block;
+  width: 360px;
+  height: 95px;
+  text-align:right;
+  z-index:20;
+}
