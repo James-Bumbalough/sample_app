@@ -1,0 +1,142 @@
+.noPrint{
+	display:none;
+}
+
+.noPrint_button {
+	display:none;
+}
+
+#bodycontent{
+	background:none;
+	border:none;
+	-o-box-shadow: none;
+   	-webkit-box-shadow: none;
+  	-moz-box-shadow: none;
+}
+
+.pagebody{
+	background:none;
+	border:none;
+	-o-box-shadow: none;
+   	-webkit-box-shadow: none;
+  	-moz-box-shadow: none;
+}
+
+#innershadow2 {
+	background:none;
+	border:none;
+	-o-box-shadow: none;
+   	-webkit-box-shadow: none;
+  	-moz-box-shadow: none;
+}
+
+#content_padder {
+	padding:10px;
+}
+
+#name_title {
+	font-size:24px;
+	font-weight:bold;
+	text-align:center;
+}
+
+#box_row {
+	margin: 15px 0px 7px 0px;
+}
+
+#box_row a {
+	text-decoration:none;
+	color:#000;
+}
+
+#box_row a:hover {
+	text-decoration:none;
+	color:#555;
+}
+
+#box1 {
+	position:absolute;
+	font-size:16px;
+}
+
+#box2 {
+	font-size:16px;
+	position:relative;
+	width:255px;
+	margin-left:auto;
+}
+
+.title_bar {
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	margin-top:5px;
+	margin-bottom:0px;
+}
+.greybox {
+	background-color:#CCC;
+	padding:0px;
+	margin-top:3px;
+	margin-bottom:0px;
+}
+
+#work_experience {
+}
+
+#work_experience table {
+	width: 730px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 0px;
+	background-color: #FFF;
+}
+
+#work_experience td {
+	border: thin solid #999;
+	padding-left : 5px;
+}
+
+#work_experience .tableheader{
+	text-align: center;
+	font-weight: bold;
+}
+.work_title {
+	position:absolute;
+	font-weight:bold;
+}
+
+.work_period {
+	position:relative;
+	width:155px;
+	margin-left:auto;
+	font-weight:bold;
+}
+
+.work_description{
+	
+}
+
+.company {
+	margin-left:5px;	
+}
+
+.company a{
+	text-decoration: none;
+}
+
+.responsibilities{
+	margin-top: 0px;
+}
+
+.responsibilities ul{
+	list-style-type:none;
+	margin-top: 0px;
+}
+
+.responsibilities li{
+	margin-top: -1px;
+}
+
+#hideShow {
+	display:none;
+}

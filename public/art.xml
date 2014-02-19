@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<art>
+
+	<piece type="Drawing">
+
+		<title>Apocolypse</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info>Drawing of the comic villian "Apocolypse"</info>
+
+		<thumb>thumbs/drawings/Drawing 001.jpg</thumb>
+
+		<image>images/drawings/Drawing 001.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>Extender</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 002.jpg</thumb>
+
+		<image>images/drawings/Drawing 002.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>Robotic Gothic</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 003.jpg</thumb>
+
+		<image>images/drawings/Drawing 003.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>Isolation</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 004.jpg</thumb>
+
+		<image>images/drawings/Drawing 004.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>The Cyclopse</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info>Pointalism picture of John Goodman from the movie Oh Brother Where Art Thou</info>
+
+		<thumb>thumbs/drawings/Drawing 005.jpg</thumb>
+
+		<image>images/drawings/Drawing 005.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>The Ax Man Cometh</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 006.jpg</thumb>
+
+		<image>images/drawings/Drawing 006.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>Nabu Creature</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 007.jpg</thumb>
+
+		<image>images/drawings/Drawing 007.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>Vortex</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 008.jpg</thumb>
+
+		<image>images/drawings/Drawing 008.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>Skull In Chair</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 009.jpg</thumb>
+
+		<image>images/drawings/Drawing 009.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>Skull Under Chair</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 010.jpg</thumb>
+
+		<image>images/drawings/Drawing 010.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>The Fall Of Corinth</title>
+
+		<medium>Pen and Watercolor</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 011.jpg</thumb>
+
+		<image>images/drawings/Drawing 011.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>Trapped</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 012.jpg</thumb>
+
+		<image>images/drawings/Drawing 012.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>Skull on Lighttable (front)</title>
+
+		<medium>Pencil</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 013.jpg</thumb>
+
+		<image>images/drawings/Drawing 013.jpg</image>
+
+	</piece>
+
+	<piece type="Drawing">
+
+		<title>Skull on Lighttable (back)</title>
+
+		<medium>Pencil</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 014.jpg</thumb>
+
+		<image>images/drawings/Drawing 014.jpg</image>
+
+	</piece>
+
+	<piece type="Painting">
+
+		<title>Dali's Madonna</title>
+
+		<medium>Oil Paint</medium>
+
+		<info>Partial recreation of Salvidor Dali's "Lady Madonna"</info>
+
+		<thumb>thumbs/paintings/Painting 001.jpg</thumb>
+
+		<image>images/paintings/Painting 001.jpg</image>
+
+	</piece>
+
+	<piece type="Painting">
+
+		<title>Alice</title>
+
+		<medium>Watercolor</medium>
+
+		<info></info>
+
+		<thumb>thumbs/paintings/Painting 002.jpg</thumb>
+
+		<image>images/paintings/Painting 002.jpg</image>
+
+	</piece>
+
+	<piece type="Painting">
+
+		<title>Spruced</title>
+
+		<medium>Watercolor</medium>
+
+		<info></info>
+
+		<thumb>thumbs/paintings/Painting 003.jpg</thumb>
+
+		<image>images/paintings/Painting 003.jpg</image>
+
+	</piece>
+
+	<piece type="Painting">
+
+		<title>Cupcakes</title>
+
+		<medium>Oil Paint</medium>
+
+		<info></info>
+
+		<thumb>thumbs/paintings/Painting 004.jpg</thumb>
+
+		<image>images/paintings/Painting 004.jpg</image>
+
+	</piece>
+
+	<piece type="Painting">
+
+		<title>Skull Study</title>
+
+		<medium>Fingerpaint</medium>
+
+		<info>Study of a skull, using only gesso and ink</info>
+
+		<thumb>thumbs/paintings/Painting 005.jpg</thumb>
+
+		<image>images/paintings/Painting 005.jpg</image>
+
+	</piece>
+
+	<piece type="Painting">
+
+		<title>Melting Shoe</title>
+
+		<medium>Oil Paint</medium>
+
+		<info>Painting final, and my first steps into surealism</info>
+
+		<thumb>thumbs/paintings/Painting 006.jpg</thumb>
+
+		<image>images/paintings/Painting 006.jpg</image>
+
+	</piece>
+
+	<piece type="Painting">
+
+		<title>Blockwork Orange</title>
+
+		<medium>Oil Paint</medium>
+
+		<info>A collage of elements mapped out in blocks</info>
+
+		<thumb>thumbs/paintings/Painting 007.jpg</thumb>
+
+		<image>images/paintings/Painting 007.jpg</image>
+
+	</piece>
+
+	<piece type="Photoshop">
+
+		<title>Apparition of Face and Fruit Bowl</title>
+
+		<medium>Photoshop</medium>
+
+		<info>A photoshop remake of Dali's "Apparition of Face and Fruit Bowl" with real objects</info>
+
+		<thumb>thumbs/photoshop/photoshop 001.jpg</thumb>
+
+		<image>images/photoshop/photoshop 001.jpg</image>
+
+	</piece>
+
+	<piece type="Photoshop">
+
+		<title>The Statue</title>
+
+		<medium>Photoshop</medium>
+
+		<info></info>
+
+		<thumb>thumbs/photoshop/photoshop 002.jpg</thumb>
+
+		<image>images/photoshop/photoshop 002.jpg</image>
+
+	</piece>
+
+	<piece type="Photoshop">
+
+		<title>Utah1</title>
+
+		<medium>Photoshop</medium>
+
+		<info></info>
+
+		<thumb>thumbs/photoshop/photoshop 003.jpg</thumb>
+
+		<image>images/photoshop/photoshop 003.jpg</image>
+
+	</piece>
+
+	<piece type="Photoshop">
+
+		<title>Utah2</title>
+
+		<medium>Photoshop</medium>
+
+		<info></info>
+
+		<thumb>thumbs/photoshop/photoshop 004.jpg</thumb>
+
+		<image>images/photoshop/photoshop 004.jpg</image>
+
+	</piece>
+
+	<piece type="Photoshop">
+
+		<title>Utah3</title>
+
+		<medium>Photoshop</medium>
+
+		<info></info>
+
+		<thumb>thumbs/photoshop/photoshop 005.jpg</thumb>
+
+		<image>images/photoshop/photoshop 005.jpg</image>
+
+	</piece>
+	
+	<piece type="3D">
+
+		<title>Mantis</title>
+
+		<medium>Blender</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 012.jpg</thumb>
+
+		<image>images/3D/3D 012.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>The Hand That Feeds</title>
+
+		<medium>Blender</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 013.jpg</thumb>
+
+		<image>images/3D/3D 013.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>Torso Factory</title>
+
+		<medium>Blender</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 014.jpg</thumb>
+
+		<image>images/3D/3D 014.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>Caput</title>
+
+		<medium>Blender</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 015.jpg</thumb>
+
+		<image>images/3D/3D 015.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>Gingerbread Man</title>
+
+		<medium>Blender</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 001.jpg</thumb>
+
+		<image>images/3D/3D 001.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>Lamp</title>
+
+		<medium>Swift 3D</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 002.jpg</thumb>
+
+		<image>images/3D/3D 002.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>Action Boy intro</title>
+
+		<medium>Swift 3D</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 003.jpg</thumb>
+
+		<image>images/3D/3D 003.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>Blue Bird 1</title>
+
+		<medium>Swift 3D</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 004.jpg</thumb>
+
+		<image>images/3D/3D 004.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>Blue Bird 2</title>
+
+		<medium>Swift 3D</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 005.jpg</thumb>
+
+		<image>images/3D/3D 005.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>Blue Bird 3</title>
+
+		<medium>Swift 3D</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 006.jpg</thumb>
+
+		<image>images/3D/3D 006.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>Green Bird (field)</title>
+
+		<medium>Swift 3D</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 007.jpg</thumb>
+
+		<image>images/3D/3D 007.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>Green Bird (night)</title>
+
+		<medium>Swift 3D</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 008.jpg</thumb>
+
+		<image>images/3D/3D 008.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>Blue Bird (sky)</title>
+
+		<medium>Swift 3D</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 009.jpg</thumb>
+
+		<image>images/3D/3D 009.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>C200 Big Bird</title>
+
+		<medium>Swift 3D</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 010.jpg</thumb>
+
+		<image>images/3D/3D 010.jpg</image>
+
+	</piece>
+
+	<piece type="3D">
+
+		<title>Spyder Bot</title>
+
+		<medium>Blender</medium>
+
+		<info></info>
+
+		<thumb>thumbs/3D/3D 011.jpg</thumb>
+
+		<image>images/3D/3D 011.jpg</image>
+
+	</piece>
+
+	<piece type="Flash">
+
+		<title>Skull In Chair</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 009.jpg</thumb>
+
+		<image>images/drawings/Drawing 009.jpg</image>
+
+	</piece>
+
+	<piece type="Flash">
+
+		<title>Skull Under Chair</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 010.jpg</thumb>
+
+		<image>images/drawings/Drawing 010.jpg</image>
+
+	</piece>
+
+	<piece type="Flash">
+
+		<title>The Fall Of Corinth</title>
+
+		<medium>Pen and Watercolor</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 011.jpg</thumb>
+
+		<image>images/drawings/Drawing 011.jpg</image>
+
+	</piece>
+
+	<piece type="Flash">
+
+		<title>Trapped</title>
+
+		<medium>Pen and Ink</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 012.jpg</thumb>
+
+		<image>images/drawings/Drawing 012.jpg</image>
+
+	</piece>
+
+	<piece type="Flash">
+
+		<title>Skull on Lighttable (front)</title>
+
+		<medium>Pencil</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 013.jpg</thumb>
+
+		<image>images/drawings/Drawing 013.jpg</image>
+
+	</piece>
+
+	<piece type="Flash">
+
+		<title>Skull on Lighttable (back)</title>
+
+		<medium>Pencil</medium>
+
+		<info></info>
+
+		<thumb>thumbs/drawings/Drawing 014.jpg</thumb>
+
+		<image>images/drawings/Drawing 014.jpg</image>
+
+	</piece>
+
+</art>

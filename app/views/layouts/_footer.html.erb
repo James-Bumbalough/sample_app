@@ -1,13 +1,17 @@
 <footer class="footer">
   <small>
-    <a href="http://railstutorial.org/">Rails Tutorial</a>
-    by Michael Hartl
+    <%= link_to "Jamse Bumbalough's", root_path %>
+    webportfolio
   </small>
   <nav>
     <ul>
-      <li><%= link_to "About",   about_path %></li>
+      <li><%= link_to "About",   root_path %></li>
       <li><%= link_to "Contact", contact_path %></li>
-      <li><a href="http://news.railstutorial.org/">News</a></li>
+      <% if signed_in? %>
+        <li><%= link_to "Sign out", signout_path, method: "delete" %></li>
+      <% else %>
+        <li><%= link_to "Sign in", signin_path %></li>
+      <% end %>
     </ul>
   </nav>
 </footer>

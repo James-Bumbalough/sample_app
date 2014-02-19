@@ -46,4 +46,8 @@ module SessionsHelper
     session[:return_to] = request.url if request.get?
   end
 
+  def current_page?(link)
+    link == request.fullpath
+  end
+
 end

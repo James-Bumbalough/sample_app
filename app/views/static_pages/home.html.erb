@@ -1,31 +1,22 @@
-
-<% if signed_in? %>
-  <div class="row">
-    <aside class="span4">
-      <section>
-        <%= render 'shared/user_info' %>
-      </section>
-      <section>
-        <%= render 'shared/micropost_form' %>
-      </section>
-    </aside>
-    <div class="span8">
-      <h3>Micropost Feed</h3>
-      <%= render 'shared/feed' %>
-    </div>
+  <div id="twitter-widget">
+      <a class="twitter-timeline" width="230" height="400" href="https://twitter.com/bumbie" data-widget-id="432510026918273024">Tweets by @bumbie</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </div>
-<% else %>
-  <div class="center hero-unit">
-    <h1>Welcome to the Sample App</h1>
-
-    <h2>
-      This is the home page for the
-      <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a>
-      sample application.
-    </h2>
-
-    <%= link_to "Sign up now!", signup_path, class: "btn btn-large btn-primary" %>
+  <div class="left-collumn">
+      <div id="welcome"><span class="big-black">Hello<%= " " + current_user.name if signed_in? %></span><span class="small-grey">, <% if signed_in? %></br><% end %>and welcome to my website</span></div>
+      <div class="about-me"><em>About Me</em></div>
+      
+      <div class="info-box">
+        <p>- I am a 29 year old web developer working out of the Columbus area</p>
+        <p>- For the last six years I have been working as a Flash Developer for KMI.inc</p>
+        <p>- I am currently seeking new employment</p>
+        <p>- I am happily married to my wife Erin of two years</p>
+        <p>- I am always up for new challenges and adventures</p>
+        
+      </div>
+      <div id="divider"></div>
+      <div id="updates"><%= image_tag("update_orange.png", alt: "Orane Circle", id: "orange-circle") %>updates</div>
+      <p>I'm currently in the process of rebuilding my website with Ruby on Rails, so things are a little disjointed right now.</p>
+      
+      <p>My <a href="http://bumbapalooza.tumblr.com">blog</a> is not running at this time, but I hope to have that fixed soon.</p>
   </div>
-
-  <%= link_to image_tag("rails.png", alt: "Rails"), 'http://rubyonrails.org/' %>
-<% end %>

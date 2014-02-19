@@ -7,19 +7,25 @@ class StaticPagesController < ApplicationController
     end
   end
 
+  def resume
+  end
+
+  def art
+  end
+
+  def contact
+  end
+
+  def bible_study
+  end
+
   def help
   end
 
   def about
   end
 
-  def contact
-  end
-
   def tumblr
-  end
-
-  def resume
   end
 
 end

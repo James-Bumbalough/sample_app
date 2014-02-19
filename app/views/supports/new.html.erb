@@ -1,0 +1,31 @@
+<% provide(:title, 'Contact') %>
+<div id="email-form">
+  <h1>SEND ME AN EMAIL</h1>
+  <%= form_for @support, :url => { :action => "create" }, :html => { :method => :post } do |f| %>
+    <%= f.label "Name", class: "label-white" %>
+    <%= f.text_field :sender_name, placeholder: "Type Here" %>
+
+    <%= f.label :email, class: "label-white" %>
+    <%= f.text_field :email, placeholder: "Type Here" %>
+
+      <%= f.label "Details", class: "label-white" %>
+      <%= f.text_area :content, placeholder: "Type Here" %>
+
+      <%= f.label "*What is 2+2? (Anti-spam)", class: "label-white" %>
+    <%= f.text_field :human, placeholder: "Type Here" %>
+
+    <%= f.submit "Submit", class: "btn btn-large btn-primary" %>
+  <% end %>
+</div>
+<div id="widget-container">
+  <p class="25point">You can follow me here:</p>
+  <ul>
+    <li><%= link_to image_tag("contact/linkedin_icon.png", alt: "Linkedin Icon"), "http://www.linkedin.com/profile/view?id=320332063&trk=nav_responsive_tab_profile" %></li>
+    <li><%= link_to image_tag("contact/facebook_icon.png", alt: "Facebook Icon"), "https://www.facebook.com/bumbie" %></li>
+    <li><%= link_to image_tag("contact/twitter_icon.png", alt: "Twitter Icon"), "https://twitter.com/bumbie" %></li>
+    <li><%= link_to image_tag("contact/tumblr_icon.png", alt: "Tumblr Icon"), "http://bumbapalooza.tumblr.com" %></li>
+  </ul>
+  <p>Or you can call me at:</p>
+  <div id="phone-number">(937) 831-3644</div>
+  <object type="application/x-shockwave-flash" data="https://clients4.google.com/voice/embed/webCallButton" width="230" height="85"><param name="movie" value="https://clients4.google.com/voice/embed/webCallButton" /><param name="wmode" value="transparent" /><param name="FlashVars" value="id=b4a4dc71c3844327f1fc45f3c65b340f58decc18&style=0" /></object>
+</div>
