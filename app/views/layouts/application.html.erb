@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <script type="text/javascript">  // redirect for mobile
+    <!--
+    if (screen.width <= 1023) {
+      document.location = 'http://mobile.jamesbumbalough.com'
+    }
+    //->
     <title><%= full_title(yield(:title)) %></title>
     <%= stylesheet_link_tag "application", media: "screen", "data-turbolinks-track" => true %>
     <%= stylesheet_link_tag "print_resume", media: "print", "data-turbolinks-track" => true %>
